@@ -1,0 +1,24 @@
+{
+  "name": "md-convert-json",
+  "version": "1.0.0",
+  "description": "A Markdown to JSON converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/md-convert-json.git"
+  },
+  "keywords": [
+    "markdown",
+    "json",
+    "md2json"
+  ],
+  "author": "JeLewine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiberJe/md-convert-json/issues"
+  },
+  "homepage": "https://github.com/LiberJe/md-convert-json#readme"
+}
