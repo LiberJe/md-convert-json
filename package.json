@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/LiberJe/md-convert-json/issues"
   },
-  "homepage": "https://github.com/LiberJe/md-convert-json#readme"
+  "homepage": "https://github.com/LiberJe/md-convert-json#readme",
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
 }
